@@ -1,0 +1,6 @@
+cd /path/to/ligne-couture
+git init
+git add .
+git commit -m "Add Vercel config"
+git remote add origin https://github.com/YOUR_USERNAME/ligne-couture.git
+git push -u origin main
